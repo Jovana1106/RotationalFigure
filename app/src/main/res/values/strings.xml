@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"> ~ Rotational figures ~ </string>
+        <string name="titleFigure">Calculation of area and volume</string>
+        <string name="txt1">Enter value of radius r:</string>
+        <string name="txt2">Enter value of height h:</string>
+        <string name="txt5">Enter value of radius R:</string>
+        <string name="txt6">Enter value of s:</string>
+        <string name="txt3">Area</string>
+        <string name="txt4">Volume</string>
+        <string name="btn1">Calculate</string>
+        <string name="btn2">Clear</string>
+        <string name="btnBack">Back</string>
+
+    </resources>
